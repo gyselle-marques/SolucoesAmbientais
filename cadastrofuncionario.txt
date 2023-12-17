@@ -1,0 +1,21 @@
+
+
+Recorded at Sun Nov 05 19:32:56 2023
+
+Nome do funcionário: Gyselle Marques
+E-mail: gyselle@gyselle.com.br
+CPF: 123.321.123-31
+Telefone: (11)50005789
+Data de nascimento: 19/6/1991
+Endereço: Rua - Rua Comercial | Número - 123 | Bairro - Jardim Sampa 
+Cidade - São Paulo | Estado - SP | CEP - 01110-010
+
+Recorded at Sun Nov 05 20:10:04 2023
+
+Nome do funcionário: Maria Silva
+E-mail: mariasilva@mm.com.br
+CPF: 123.333.421-31
+Telefone: (21)54320981
+Data de nascimento: 24/2/1993
+Endereço: Rua - Rua Lima | Número - 21 | Bairro - Centro 
+Cidade - Rio de Janeiro | Estado - SP | CEP - 12372-078

@@ -1,0 +1,19 @@
+
+
+Recorded at Tue Nov 07 19:26:43 2023
+
+Nome da Empresa: GM Empreendimentos
+Tipo de Resíduo: metal
+Quantidade (kg): 10,00
+Dia da coleta: 20/3/2023
+Endereço da coleta: Rua - Rua da Avenida | Número - 12 | Bairro - Jardim Sampa 
+Cidade - SÆo Paulo | Estado - SP | CEP - 01234-001 | Valor Total: 15,00
+
+Recorded at Tue Nov 07 19:29:20 2023
+
+Nome da Empresa: RM Transportes
+Tipo de Resíduo: pneus
+Quantidade (kg): 20,00
+Dia da coleta: 28/10/2023
+Endereço da coleta: Rua - Rua da Coleta | Número - 123 | Bairro - Bairro Carioca 
+Cidade - Rio de Janeiro | Estado - RJ | CEP - 48234-090 | Valor Total: 40,00
