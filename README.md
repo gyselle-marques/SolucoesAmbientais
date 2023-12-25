@@ -4,7 +4,7 @@
 
 ##
 
-<h3>:notebook: Como utilizar:</h3>
+<h3>⚒️ Como utilizar:</h3>
 
 * Abra o arquivo executável;
 * Selecione a opção de acessar o menu principal;
@@ -16,5 +16,5 @@
 
 <h3>:computer: Tecnologia</h3>
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
 
