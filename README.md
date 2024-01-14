@@ -4,7 +4,7 @@
 
 ##
 
-<h3>⚒️ Como utilizar:</h3>
+<h3>🛠️ Como utilizar:</h3>
 
 * Abra o arquivo executável;
 * Selecione a opção de acessar o menu principal;
